@@ -25,7 +25,7 @@ This project combines both ideas—synthetic data generation and submodular data
    - IMDB test set → In-distribution
    - Amazon Reviews test set → Out-of-distribution (OOD) 
     #### Our Ablation Studies
-    a. Impact of the Data Source 
-    b. Impact of Submodular Data Selection 
+         1. Impact of the Data Source
+         2. Impact of Submodular Data Selection 
   
 
